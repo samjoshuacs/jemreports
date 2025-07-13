@@ -1,0 +1,1 @@
+get Pages, Queries, Countries, and Devices from GSC Export
